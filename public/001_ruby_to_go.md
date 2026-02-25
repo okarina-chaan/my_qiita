@@ -4,7 +4,7 @@ tags:
   - Ruby
   - Go
 private: true
-updated_at: '2026-02-25T18:18:18+09:00'
+updated_at: '2026-02-25T23:42:35+09:00'
 id: 0600d30059b9544f4646
 organization_url_name: null
 slide: false
